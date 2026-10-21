@@ -1,5 +1,5 @@
-<h1 align="center"><ðŸ‘‹ Hello, World!/></h1>
-<p align="center">I'm Hassan, a healthcare engineer who builds software for regulated industries â€” HL7/FHIR interfaces, DICOM imaging pipelines, EHR integration, and ML that runs where PHI lives. Tech lead at Antematter; 20+ production projects shipped across client engagements.</p>
+<h1 align="center"><👋 Hello, World!/></h1>
+<p align="center">I'm Hassan, a healthcare engineer who builds software for regulated industries — HL7/FHIR interfaces, DICOM imaging pipelines, EHR integration, and ML that runs where PHI lives. Tech lead at Antematter; 20+ production projects shipped across client engagements.</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hassan-bilal144&label=Profile%20views&color=0e75b6&style=flat" alt="hassan-bilal144" /> </p>
 
 <h1 align="center">Skills</h1>
@@ -11,7 +11,7 @@
 
 <p align="center">
   <b>Domains & standards</b><br/>
-  HL7 v2 Â· FHIR R4 Â· SMART on FHIR Â· CDS Hooks Â· DICOM Â· PACS Â· HIPAA Â· SNOMED CT Â· Mirth Connect Â· MONAI
+  HL7 v2 · FHIR R4 · SMART on FHIR · CDS Hooks · DICOM · PACS · HIPAA · SNOMED CT · Mirth Connect · MONAI
 </p>
 
 <h1 align="center">Activity</h1>
